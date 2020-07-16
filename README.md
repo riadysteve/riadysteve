@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning ReactJS and Laravel
 - 😄 Pronouns: he/him
 
-🏀 [dribbble][dribbble] **|** 
+🏀 [dribbble][dribbble]
+
 [dribbble]: https://dribbble.com/SteveRiady
+
 <!--
 **riadysteve/riadysteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
