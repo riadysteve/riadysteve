@@ -1,10 +1,14 @@
 ### Hi, I'm Steven Riady 👋
 
-## I'm Self-taught Web Developer
+## I'm a Self-taught Web Developer & UI/UX Designer
 
 - 🔭 I’m currently working on ReactJS and building my Portfolio
 - 🌱 I’m currently learning ReactJS and Laravel
 - 😄 Pronouns: he/him
+
+🏀 [Dribbble] : [dribbble]
+
+[dribbble] : https://dribbble.com/SteveRiady
 
 <!--
 **riadysteve/riadysteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
