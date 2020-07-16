@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ReactJS and Laravel
 - 😄 Pronouns: he/him
 
-🏀 [dribbble] : [dribbble]
+🏀 [dribbble] [dribbble]
 
 [dribbble] : https://dribbble.com/SteveRiady
 
