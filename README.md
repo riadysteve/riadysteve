@@ -1,6 +1,11 @@
 ### Hi, I'm Steven Riady 👋
 
 ## I'm Self-taught Web Developer
+
+- 🔭 I’m currently working on ReactJS and building my Portfolio
+- 🌱 I’m currently learning ReactJS and Laravel
+- 😄 Pronouns: he/him
+
 <!--
 **riadysteve/riadysteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
