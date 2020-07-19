@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on ReactJS and building my Portfolio
 - 🌱 I’m currently learning ReactJS and Laravel
 - 😄 Pronouns: he/him
+- 🎯 Goals: to become a **FullStack Web Developer**
 
 - 🏀 : [dribbble][dribbble]
 
