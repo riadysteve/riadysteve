@@ -2,7 +2,7 @@
 
 ## I'm a Self-taught Web Developer & UI/UX Designer
 
-- 🔭 I’m currently working on ReactJS and building my Portfolio
+- 🔭 I’m currently working on ReactJS and building my Portfolio Website
 - 🌱 I’m currently learning ReactJS and Laravel
 - 😄 Pronouns: he/him
 - 🎯 Goals: to become a **FullStack Web Developer**
