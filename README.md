@@ -2,14 +2,20 @@
 
 ## I'm a Self-taught Web Developer & UI/UX Designer
 
-- 🔭 I’m currently working on ReactJS and building my Portfolio Website
 - 🌱 I’m currently learning ReactJS and Laravel
 - 😄 Pronouns: he/him
 - 🎯 Goals: to become a **FullStack Web Developer**
 
-- 🏀 : [dribbble][dribbble]
+- 📫 How to reach me: riadysteve@gmail.com
+
+
+🏀 [dribbble][dribbble] **|**
+🏡 [website][website] **|**
+👔 [linkedin][linkedin]
 
 [dribbble]: https://dribbble.com/SteveRiady
+[website]: https://riadysteve.now.sh
+[linkedin]: https://www.linkedin.com/in/riadysteve
 
 <!--
 **riadysteve/riadysteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +27,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
