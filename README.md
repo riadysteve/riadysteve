@@ -6,7 +6,6 @@
 - 😄 Pronouns: he/him
 - 🎯 Goals: to become a **FullStack Web Developer**
 - 📫 How to reach me: riadysteve@gmail.com
-
 <br />
 
 ### Connect with me:
