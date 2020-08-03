@@ -1,4 +1,4 @@
-### Hi, I'm Steven Riady 👋
+### Hi, My name is Steven Riady 👋
 
 ## I'm a Front-end Web Developer
 
@@ -9,7 +9,7 @@
 
 <br />
 
-###Connect with me:
+### Connect with me:
 
 [<img align="left" alt="riadysteve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="riadysteve | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
