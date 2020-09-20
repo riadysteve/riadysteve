@@ -2,10 +2,10 @@
 
 ## I'm a Front-end Web Developer
 
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning ReactJS Framework
 - 😄 Pronouns: he/him
 - 🎯 Goals: to become a **FullStack Web Developer**
-- 📫 How to reach me: riadysteve@gmail.com
+
 <br />
 
 ### Connect with me:
